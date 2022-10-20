@@ -12,13 +12,25 @@ Interested in Front-end web development and enjoy working with positive and coll
 
 <strong>Languages and Tools:</strong>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/boostrap.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/vuejs.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"></code>
+
+---
+## Project Gallery
+- [Xenon Hub](https://tiffy-portfolio.vercel.app/img/xenon-hub.gif) - NodeJS, NuxtJS, Bootstrap Vue
+- [Rival Shop](https://tiffy-portfolio.vercel.app/img/rival-shop-sm.gif) - ReactJS, TailwindCSS, NextUI
+- [Central Saga](https://tiffy-portfolio.vercel.app/img/central-ls-slide.gif) - NuxtJS, Bootstrap
+- [Mindset Esport](https://tiffy-portfolio.vercel.app/img/esport.gif) - HTML, CSS, JS
+- [Sword Craft Online](https://tiffy-portfolio.vercel.app/img/sao.gif) - HTML, CSS, JS, Bootstrap, AOS
+- [Solutions](https://tiffy-portfolio.vercel.app/img/18fix.gif) - HTML, CSS, JS, Bootstrap, AOS
+- [Raycity II](https://tiffy-portfolio.vercel.app/img/rc-ii.jpg) - HTML, CSS, JS, Bootstrap, AOS
+- [Xenon Shop](https://tiffy-portfolio.vercel.app/img/xenon-shop.gif) - HTML, CSS, JS, Bootstrap, AOS
+---
 
 <a href="https://github.com/taetiffy">
   <img height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=taetiffy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
