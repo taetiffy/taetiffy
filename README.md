@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tey Nattaporn
+# 👋 Hi, I'm Tae Nattaporn
 Interested in Front-end web development and enjoy working with positive and collaborative people.
 <br><br>
 <a href="https://github.com/taetiffy"><img src="https://count.getloli.com/get/@taetiffy?theme=rule34"/></a>
