@@ -12,7 +12,7 @@ Interested in Front-end web development and enjoy working with positive and coll
 
 <strong>Languages and Tools:</strong>
 
-<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg"></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/boostrap.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/vuejs.svg"></code>
