@@ -67,5 +67,6 @@ Interested in Front-end web development and enjoy working with positive and coll
     srcset="https://github-readme-stats.vercel.app/api?username=taetiffy&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
+    <img src="https://github-readme-stats.vercel.app/api?username=taetiffy&show_icons=true" />
 </picture>
 </a>
