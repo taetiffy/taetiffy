@@ -56,7 +56,7 @@ Interested in Front-end web development and enjoy working with positive and coll
 - [Central Saga](https://tiffy-portfolio.vercel.app/img/central-ls-slide.gif) - NuxtJS, Bootstrap Vue
 - [Esport](https://tiffy-portfolio.vercel.app/img/esport.gif) - Nextjs , TailwindCSS , Flowbite
 - [Sword Craft Online](https://tiffy-portfolio.vercel.app/img/sao.gif) - HTML, CSS, JS, Bootstrap, AOS
-- [Solutions](https://tiffy-portfolio.vercel.app/img/18fix.gif) - HTML, CSS, JS, Bootstrap, AOS
+- [18FIX](https://tiffy-portfolio.vercel.app/img/18fix.gif) - HTML, CSS, JS, Bootstrap, AOS
 - [Raycity II](https://tiffy-portfolio.vercel.app/img/rc-ii.jpg) - HTML, CSS, JS, Bootstrap, AOS
 - [Xenon Shop](https://tiffy-portfolio.vercel.app/img/xenon-shop.gif) - Nextjs , TailwindCSS
 ---
