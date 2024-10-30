@@ -46,7 +46,6 @@ Interested in Front-end web development and enjoy working with positive and coll
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="xd logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="wordpress logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="xcode logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="unity logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="ubuntu logo"  /></code>
 
 ---
