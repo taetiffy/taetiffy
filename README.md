@@ -22,7 +22,7 @@ Interested in Front-end web development and enjoy working with positive and coll
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="apache logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="bootstrap logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="bulma logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="codepen logo"  /></code>
+</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="css3 logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="digitalocean logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="electron logo"  /></code>
