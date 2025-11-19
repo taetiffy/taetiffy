@@ -17,7 +17,6 @@ Interested in Front-end web development and enjoy working with positive and coll
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="react logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="nextjs logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="nodejs logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="nestjs logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="canva logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="apache logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" style="margin-left:3px; margin-right:3px; margin-top:10px;" alt="bootstrap logo"  /></code>
